@@ -1,22 +1,19 @@
 {
-    "products": [
+  "products": [
     {
-
-        "id": 1,
-        "name": "Notebook",
-        "price": 2.399
+      "id": 1,
+      "name": "Notebook",
+      "price": 2.399
     },
     {
-        "id": 2,
-        "name": "Impressora",
-        "price": 2.550
-
+      "id": 2,
+      "name": "Impressora",
+      "price": 2.55
     },
     {
-        "id": 3,
-        "name": "mouse",
-        "price": 200
+      "id": 3,
+      "name": "mouse",
+      "price": 200
     }
-
-]
+  ]
 }
