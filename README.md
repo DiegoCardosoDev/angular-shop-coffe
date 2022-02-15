@@ -12,5 +12,9 @@
 * aplicação desenvolvida no durante o curso de angular da COD3R. 
   com as operaçoes basicas de CRUD.
 
+
 * usei angular 12, typescript, html e css no front end
  no back end usei Java17, Spring Boot, banco MySQL.
+   
+   ![crud](https://user-images.githubusercontent.com/83510729/153986078-4ed9669b-035c-4b33-a32e-46106ca11172.png)
+![crudspring](https://user-images.githubusercontent.com/83510729/153986384-95120151-f891-4226-b365-02f7bcd9027c.png)
